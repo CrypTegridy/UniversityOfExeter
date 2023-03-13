@@ -34,13 +34,19 @@ H.	*OPTIONAL* https://github.com/crytic/slither/wiki
 3.	Set up a custom network in Metamask with these settings.
 
 Network name: BSC Testnet
+
 New RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
+
 Chain ID: 97
+
 Currency symbol: BNB
+
 Block explorer URL: https://testnet.bscscan.com
 
 4.	Get some BSC Testnet BNB.
 
 A.	https://testnet.bnbchain.org/faucet-smart
+
 B.	https://faucet.quicknode.com/binance-smart-chain/bnb-testnet/
+
 C.	https://faucet.triangleplatform.com/bnbsmartchain/testnet
