@@ -1,10 +1,10 @@
 # UniversityOfExeter
 Smart Contracts: BEEM161 - Basic Smart Contract Analysis
 
-Welcome to the exercise on Basic Smart Contract Analysis. In this session, we will be exploring the fundamental concepts and tools used for analyzing smart contracts written in Solidity.
+Welcome to today's exercise on Basic Smart Contract Analysis. In this session, we will be discussing the tools and techniques used to analyze and understand Solidity smart contracts. Specifically, we will be using VSCode, Solidity Visual Developer, RemixIDE, and Metamask, with the optional tool, Slither.
 
-As the use of blockchain technology continues to gain momentum, smart contracts have emerged as a critical component of blockchain-based applications. However, smart contracts can be vulnerable to various security risks, which can result in financial losses or other negative consequences. Therefore, it is essential to understand how to analyze smart contracts to identify potential issues and ensure that they function as intended.
+Smart contracts are self-executing programs that run on a blockchain, and they have become increasingly popular due to their ability to automate complex processes and enforce agreements without the need for intermediaries. However, like any other software, smart contracts can have bugs or vulnerabilities that can lead to unintended consequences, such as loss of funds or theft.
 
-In this exercise, we will use a combination of tools, including VSCode, Solidity Visual Developer, Ganache, RemixIDE, and Metamask, to analyze smart contracts. Additionally, we will introduce optional tools such as TruffleCLI, TruffleSuite, and Slither for advanced analysis.
+Therefore, it is important to have a good understanding of how to analyze and evaluate smart contracts to ensure they are secure and function as intended. In this lecture, we will explore the various tools and techniques used in smart contract analysis, and demonstrate how they can be used to identify potential issues and improve the overall security and functionality of the contracts.
 
-By the end of this exercise, you will have a solid understanding of the basics of smart contract analysis and the tools available to identify and mitigate potential risks. So let's dive in and explore the exciting world of smart contract analysis.
+So, let's get started by discussing the tools we will be using, including VSCode, Solidity Visual Developer, RemixIDE, Metamask, and Slither, and how they can be used in smart contract analysis.
