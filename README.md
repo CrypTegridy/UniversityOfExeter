@@ -9,8 +9,10 @@
 - A computer with the following tools installed:
   - [Visual Studio Code](https://code.visualstudio.com)
   - [Ganache Desktop](https://www.trufflesuite.com/ganache)
-  - [Metamask](https://metamask.io/)
   - [Solidity Visual Developer for VSCode](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+
+- A browser capable of using the following tools:
+  - [Metamask](https://metamask.io/)
   - [RemixIDE](https://remix.ethereum.org/)
 
 ## Learning outcomes
