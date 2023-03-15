@@ -1,4 +1,4 @@
-### Smart Contracts: BEEM161 - Basic Smart Contract Analysis
+# Smart Contracts: BEEM161 - Basic Smart Contract Analysis
 
 ## Objective
 - The objective of this practical exercise is to learn the basics of analyzing an ERC20 contract using various tools and platforms.
