@@ -7,11 +7,11 @@
 - Basic knowledge of blockchain technology and Ethereum
 - Basic knowledge of Solidity programming language
 - A computer with the following tools installed:
-  - Visual Studio Code (https://code.visualstudio.com)
-  - Ganache Desktop (https://www.trufflesuite.com/ganache)
-  - Metamask (https://metamask.io/)
-  - Solidity Visual Developer for VSCode (https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-  - RemixIDE (https://remix.ethereum.org/)
+  - [Visual Studio Code](https://code.visualstudio.com)
+  - [Ganache Desktop](https://www.trufflesuite.com/ganache)
+  - [Metamask](https://metamask.io/)
+  - [Solidity Visual Developer for VSCode](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+  - [RemixIDE](https://remix.ethereum.org/)
 
 ## Learning outcomes
 By the end of this exercise, you will have learned:
